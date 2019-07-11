@@ -20,7 +20,7 @@ npm run dev
 - [Swiper4](https://www.swiper.com.cn) - Swiper是纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端。
 
 ## Author
-- Email - admin@shaozeci.com
+- Email - shaozecai@shaozecai.com
 - Web site - https://shaozecai.com
 
 ## Version
